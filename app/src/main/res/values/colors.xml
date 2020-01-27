@@ -2,9 +2,10 @@
 <resources>
     <!-- colors for general appearance -->
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#0A0A0A</color>
     <color name="colorPrimaryLight">#C5CAE9</color>
     <color name="colorAccent">#303F9F</color>
+    <color name="taskcolor">#F0EBED</color>
 
     <!-- colors for task priority selection -->
     <color name="materialRed">#E74C3C</color>
